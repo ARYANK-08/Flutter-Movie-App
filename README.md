@@ -1,7 +1,7 @@
 # movie
 
 TMDB Movie App With Flutter 
-
+Flutter App with Real-Time Data using TMDB API
 Fetch Data from TMDB API and Display it on Flutter Frontend.
 
 
